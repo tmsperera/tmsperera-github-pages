@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+> Focused and up-to-date
 
-You can use the [editor on GitHub](https://github.com/tmsperera/tmsperera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+I'm [tmsperera](https://twitter.com/tmsperera) and also known as **Mahesh Perera**, a web developer from Sri Lanka.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Phone: +94771793633
+- Email: tmsperera@gmail.com
+- Twitter: [tmsperera](https://twitter.com/tmsperera)
+- Linkedin: [tmsperera](https://www.linkedin.com/in/tmsperera/)
 
-### Markdown
+## I have professional experience in
+- Web based SAAS applications
+- Test driven development
+- PHP
+- Laravel
+- Event Sourcing pattern in Laravel
+- Clean code architecture
+- Domain driven design with Laravel
+- MySQL
+- Front end technologies such as 
+  - Javascript
+  - Vue.js
+  - Inertia.js
+  - Laravel Blade
+  - Laravel Livewire
+  - Alpine.js
+  - Tailwind CSS
+  - jQuery
+  - Webpack
+  - Laravel Mix
+- Git
+  - Github
+  - GitLab
+  - Bitbucket
+- Project Management tools
+  - GitLab
+  - Trello
+- Code formatting tools
+  - PHP Coding Standards Fixer
+  - ESLint
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##My Contributions
+- Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie)
+- Contributed to [Laravel Scout](https://github.com/laravel/scout)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tmsperera/tmsperera/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Visible projects that I have worked on
+- [Leavedates](https://www.leavedates.com/)
