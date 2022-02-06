@@ -46,7 +46,7 @@ My professional development carrier was begun in 2016 as a PHP developer. I coul
 ## Projects I have worked on
 - [Leavedates](https://www.leavedates.com/)
 
-## Contact me :shipit:
+## Contact me
 - Phone: +94771793633
 - Email: tmsperera@gmail.com
 - Twitter: [tmsperera](https://twitter.com/tmsperera)
