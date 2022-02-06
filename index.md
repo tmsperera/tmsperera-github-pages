@@ -1,7 +1,7 @@
 > Focused and up-to-date
 
 ## About me
-I'm [tmsperera](https://twitter.com/tmsperera) and also known as **Mahesh Perera**, a web developer from Sri Lanka.
+I'm **Mahesh Perera** and also known as [tmsperera](https://twitter.com/tmsperera), a web developer from Sri Lanka.
 
 - Phone: +94771793633
 - Email: tmsperera@gmail.com
@@ -39,9 +39,9 @@ I'm [tmsperera](https://twitter.com/tmsperera) and also known as **Mahesh Perera
   - PHP Coding Standards Fixer
   - ESLint
 
-##My Contributions
+## My Contributions
 - Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie)
 - Contributed to [Laravel Scout](https://github.com/laravel/scout)
 
-##Visible projects that I have worked on
+## Global projects that I have worked on
 - [Leavedates](https://www.leavedates.com/)
