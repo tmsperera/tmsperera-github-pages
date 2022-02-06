@@ -1,4 +1,3 @@
-## About me
 ![Me](/docs/assets/images/me.jpeg)
 
 > Focused and up-to-date
