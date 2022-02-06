@@ -1,14 +1,14 @@
+## About me
 > Focused and up-to-date
 
-## About me
-I'm **Mahesh Perera** and also known as [tmsperera](https://twitter.com/tmsperera), a web developer from Sri Lanka.
+I'm **Mahesh Perera** and also known as [TMSPerera](https://twitter.com/tmsperera), a web developer from Sri Lanka.
 
 - Phone: +94771793633
 - Email: tmsperera@gmail.com
 - Twitter: [tmsperera](https://twitter.com/tmsperera)
 - Linkedin: [tmsperera](https://www.linkedin.com/in/tmsperera/)
 
-## I have professional experience in
+## I have professional experience in...
 - Web based SAAS applications
 - Test driven development
 - PHP
@@ -43,5 +43,5 @@ I'm **Mahesh Perera** and also known as [tmsperera](https://twitter.com/tmsperer
 - Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie)
 - Contributed to [Laravel Scout](https://github.com/laravel/scout)
 
-## Global projects that I have worked on
+## Projects I have worked on
 - [Leavedates](https://www.leavedates.com/)
