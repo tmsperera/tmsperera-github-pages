@@ -1,9 +1,9 @@
 ![Me](/docs/assets/images/me.jpeg)
 
 ## Me
-> Focused and up-to-date
+> _Focused and up-to-date_
 
-I'm **Mahesh Perera** and also known as [TMSPerera](https://twitter.com/tmsperera), a web developer from Sri Lanka. 
+👋 I'm **Mahesh Perera**([@tmsperera](https://twitter.com/tmsperera)), a web developer from Sri Lanka. 
 
 Foundation of my development carrier was from the [University of Colombo School of Computing (UCSC)](https://ucsc.cmb.ac.lk/).
 
@@ -70,7 +70,7 @@ I could be able to enter the Laravel ecosystem in the end of year 2017 and ever 
 - [Leavedates](https://www.leavedates.com/), an online staff leave planner
 - [Sellable](https://sellable.app/), an E-commerce marketplace management platform
 
-## Contact me
+## Contact me 🤙
 - Phone: +94771793633
 - Email: tmsperera@gmail.com
 - Twitter: [tmsperera](https://twitter.com/tmsperera)
