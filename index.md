@@ -7,7 +7,7 @@
 
 Foundation of my development carrier was from the [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/), Sri Lanka.
 
-My professional development career began in 2016 as a PHP developer. I could be able to enter the Laravel ecosystem at the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more web based technologies such as Vue.js Inertia.js and more.
+My professional software development career began in 2016 as a PHP developer. I could be able to enter the Laravel ecosystem by the end of 2017 and ever since I’m mastering the Laravel. My passion for development did not stop me there. I began to explore and master many more development best practices and more web based technologies throughout my career.
 
 ## Highlights
 - Test driven development
