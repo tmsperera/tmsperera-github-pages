@@ -64,7 +64,7 @@ My professional development career began in 2016 as a PHP developer. I could be 
 - Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie/)
 - Contributed to [Laravel Scout](https://github.com/laravel/scout/)
 
-## Projects of mine
+## Projects
 - [Leavedates](https://www.leavedates.com/), an online staff leave planner
 - [Sellable](https://sellable.app/), an E-commerce marketplace management platform
 
