@@ -70,13 +70,16 @@ My professional development career began in 2016 as a PHP developer. I could be 
 
 ## Working history
 - Senior Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (since 2021)
+  - Lead developer of [Leavedates](https://www.leavedates.com/), an online staff leave planner
+  - Lead developer of [Sellable](https://sellable.app/), an E-commerce marketplace management platform
 - Freelance Developer (2020 - 2021)
 - Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (2018 - 2020)
+  - Full stack developer of [Leavedates](https://www.leavedates.com/), an online staff leave planner
 - Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2016 - 2018)
 
 ## Contact me 🤙
-- Phone: +94771793633
-- Email: tmsperera@gmail.com
-- GitHub: [tmsperera](https://github.com/tmsperera/)
-- Twitter: [tmsperera](https://twitter.com/tmsperera/)
-- Linkedin: [tmsperera](https://www.linkedin.com/in/tmsperera/)
+- +94 77 17 93 633
+- tmsperera@gmail.com
+- [github.com/tmsperera](https://github.com/tmsperera/)
+- [twitter.com/tmsperera](https://twitter.com/tmsperera/)
+- [linkedin.com/in/tmsperera](https://www.linkedin.com/in/tmsperera/)
