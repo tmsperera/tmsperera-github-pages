@@ -1,6 +1,6 @@
 ![Me](/docs/assets/images/me.jpeg)
 
-# MAHESH PERERA ([@tmsperera](https://twitter.com/tmsperera))
+# MAHESH PERERA ([@tmsperera](https://twitter.com/tmsperera/))
 > _Focused and up-to-date_
 
 👋 I'm a Web Developer from Sri Lanka. 
@@ -61,8 +61,8 @@ My professional development career began in 2016 as a PHP developer. I could be 
 - Trello
 
 ## MY CONTRIBUTIONS TO OPEN SOURCE
-- Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie)
-- Contributed to [Laravel Scout](https://github.com/laravel/scout)
+- Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie/)
+- Contributed to [Laravel Scout](https://github.com/laravel/scout/)
 
 ## PROJECTS THAT I HAVE BEEN WORKED ON
 - [Leavedates](https://www.leavedates.com/), an online staff leave planner
@@ -72,10 +72,11 @@ My professional development career began in 2016 as a PHP developer. I could be 
 - Senior Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (since 2021)
 - Freelance Developer (2020 - 2021)
 - Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (2018 - 2020)
-- Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk) (2016 - 2018)
+- Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2016 - 2018)
 
 ## CONTACT ME 🤙
 - Phone: +94771793633
 - Email: tmsperera@gmail.com
-- Twitter: [tmsperera](https://twitter.com/tmsperera)
+- GitHub: [tmsperera](https://github.com/tmsperera/)
+- Twitter: [tmsperera](https://twitter.com/tmsperera/)
 - Linkedin: [tmsperera](https://www.linkedin.com/in/tmsperera/)
