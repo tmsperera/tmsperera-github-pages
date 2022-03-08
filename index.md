@@ -60,21 +60,23 @@ My professional software development career began in 2016 as a PHP developer. I 
 - Bitbucket
 - Trello
 
-## My contribution to Open Source
+## Contributions
 - Contributed to [Laravel Cashier for Mollie](https://github.com/mollie/laravel-cashier-mollie/)
 - Contributed to [Laravel Scout](https://github.com/laravel/scout/)
 
-## Projects
-- [Leavedates](https://www.leavedates.com/), an online staff leave planner
-- [Sellable](https://sellable.app/), an E-commerce marketplace management platform
-
 ## Working history
 - Senior Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (since 2021)
-  - Lead developer of [Leavedates](https://www.leavedates.com/), an online staff leave planner
-  - Lead developer of [Sellable](https://sellable.app/), an E-commerce marketplace management platform
+  - Lead developer(Backend + Frontend) of [Leavedates](https://www.leavedates.com/), an online staff leave planner
+    - Backend: Laravel, REST API
+    - Frontend: Vue.js, Tailwind CSS
+  - Lead developer(Backend + Frontend) of [Sellable](https://sellable.app/), an E-commerce marketplace management platform
+    - Backend: Laravel
+    - Frontend: Inertia JS, Vue JS, Tailwind CSS
 - Freelance Developer (2020 - 2021)
 - Software Developer at [OneSyntax (Private) Limited](https://www.onesyntax.com/) (2018 - 2020)
   - Full stack developer of [Leavedates](https://www.leavedates.com/), an online staff leave planner
+    - Backend: Laravel, REST API
+    - Frontend: Vue.js, Tailwind CSS
 - Full Stack Developer at [AIT (PVT) LTD](https://www.facebook.com/aitlab.lk/) (2016 - 2018)
 
 ## Contact me 🤙
